@@ -7,7 +7,7 @@ def escolher_jogo():
     print("****************************************")
 
     print("Escolha o jogo:")
-    opcao = int(input("[1] Adivinhação  [2] Forca"))
+    opcao = int(input("[1] Adivinhação  [2] Forca\n"))
 
     if opcao == 1:
         adivinhacao.jogar()
