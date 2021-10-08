@@ -1,2 +1,2 @@
-# Comnpilador_de_Jogos
+# Compilador de Jogos
  Jogos desenvolvidos durante cursos da Alura
