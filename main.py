@@ -6,8 +6,8 @@ def escolher_jogo():
     print("*** Bem-Vindo ao Compilador de Jogos ***")
     print("****************************************")
 
-    print("Escolha o jogo:")
-    opcao = int(input("[1] Adivinhação  [2] Forca\n"))
+    print("\n[1] Adivinhação  [2] Forca")
+    opcao = int(input("Escolha seu jogo: "))
 
     if opcao == 1:
         adivinhacao.jogar()

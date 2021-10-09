@@ -1,14 +1,11 @@
-import random
-
+﻿import random
 
 def jogar():
-    print("***************************************")
+    print("\n***************************************")
     print("**** Bem-Vindo ao Adivinhação v1.1 ****")
     print("***************************************")
 
-    rodada = 0
     random.seed()
-    nivel = ""
     pontos = 100
 
     print("Qual nível de dificuldade?")
